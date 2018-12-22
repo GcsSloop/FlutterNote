@@ -7,7 +7,7 @@
 
 ## 视频教程
 
-[【生肉】Flutter Crash Course - Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE)
+[【生肉】Flutter Crash Course - Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE)  
 [【熟肉】Flutter Crash Course - Building a Complete App From Scratch](https://www.bilibili.com/video/av38696227/)
 
 [Flutter教程-基础与入门](https://www.bilibili.com/video/av18781049/)
